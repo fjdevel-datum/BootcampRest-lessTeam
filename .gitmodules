@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/guidodev29/datum-back.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/guidodev29/datum-front.git
